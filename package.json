@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo": "^52.0.38",
+    "expo-router": "^4.0.18"
+  }
+}
